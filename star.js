@@ -1,6 +1,10 @@
 function pattern(y) {
     for (let i = 0; i < y; i++) {
-        console.log("*");
+        for (let j = 0; j < y; j++) {
+            console.log("*");
+            
+        }
+        
         
     }
 }

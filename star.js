@@ -4,3 +4,4 @@ function pattern(y) {
         
     }
 }
+pattern(5);

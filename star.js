@@ -4,8 +4,9 @@ function pattern(y) {
             console.log(" ");
             for (let j = 1; j <= i; j++) {
                console.log("* ");
-           
+              
             }
+            console.log("\n");
         }
         
         

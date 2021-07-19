@@ -12,4 +12,5 @@ function star(y) {
     }
     
 }
+star(6);
  
